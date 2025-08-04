@@ -531,11 +531,7 @@ git push origin feature/amazing-new-feature
 - ✅ Test with all backend implementations
 - ✅ Include clear commit messages
 
-### 🏆 Contributors
 
-<a href="https://github.com/SatyamPandey-07/ResearchAgent-/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=SatyamPandey-07/ResearchAgent-" />
-</a>
 
 ---
 
@@ -549,33 +545,6 @@ git push origin feature/amazing-new-feature
 
 </div>
 
----
-
-## 🆘 Support & Community
-
-<div align="center">
-
-### 🤔 Need Help?
-
-[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-red?style=for-the-badge&logo=github)](https://github.com/SatyamPandey-07/ResearchAgent-/issues)
-[![Documentation](https://img.shields.io/badge/Read-Documentation-blue?style=for-the-badge&logo=gitbook)](https://github.com/SatyamPandey-07/ResearchAgent-/wiki)
-[![IBM Watson ML Docs](https://img.shields.io/badge/IBM-Watson%20ML%20Docs-blue?style=for-the-badge&logo=ibm)](https://cloud.ibm.com/docs/watson-machine-learning)
-
-### 💬 Join the Community
-
-[![Discord](https://img.shields.io/badge/Discord-Chat-7289da?style=for-the-badge&logo=discord)](https://discord.gg/your-server)
-[![Slack](https://img.shields.io/badge/Slack-Workspace-4A154B?style=for-the-badge&logo=slack)](https://your-workspace.slack.com)
-
-### ⭐ Show Your Support
-
-If this project helped you, please consider giving it a star! ⭐
-
-[![GitHub stars](https://img.shields.io/github/stars/SatyamPandey-07/ResearchAgent-.svg?style=social&label=Star)](https://github.com/SatyamPandey-07/ResearchAgent-)
-[![GitHub forks](https://img.shields.io/github/forks/SatyamPandey-07/ResearchAgent-.svg?style=social&label=Fork)](https://github.com/SatyamPandey-07/ResearchAgent-/fork)
-
-</div>
-
----
 
 <div align="center">
 
